@@ -1,0 +1,8 @@
+{
+  "your_name": "",
+  "buddy": "auto",
+  "remind_every_minutes": 45,
+  "snooze_minutes": 5,
+  "first_reminder_after_seconds": 5,
+  "sound": true
+}
